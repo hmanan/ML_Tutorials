@@ -10,7 +10,7 @@ X = np.array(ct.fit\_transform(X))
 
 This line of code allows us to use the fit transform function on the array named X.
 
-1. Pandas – It stands for &quot;Python Data Analysis Library&quot;. This provides in-memory 2d table object called Dataframe. It is like a spreadsheet with column names and row labels. This allows us to convert our dataset into a dataframe so that we could do further analysis/cleansing of the data and get the fields required to either create a simple model or plot them on a graph. Usage:
+2. Pandas – It stands for &quot;Python Data Analysis Library&quot;. This provides in-memory 2d table object called Dataframe. It is like a spreadsheet with column names and row labels. This allows us to convert our dataset into a dataframe so that we could do further analysis/cleansing of the data and get the fields required to either create a simple model or plot them on a graph. Usage:
 
 dataset = pd.read\_csv(&#39;data.csv&#39;)
 
